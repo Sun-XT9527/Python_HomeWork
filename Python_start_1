@@ -5,4 +5,3 @@ user_name = input("请输入你的名字: ")
 if user_name == "111":
     print("你没有输入名字。")
 print(f"你好，{user_name}！")
-# 计算两个数的和

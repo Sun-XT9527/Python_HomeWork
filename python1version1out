@@ -1,0 +1,3 @@
+# 输出调用的python版本
+import sys
+print(f"你正在使用的Python版本是: {sys.version}")
