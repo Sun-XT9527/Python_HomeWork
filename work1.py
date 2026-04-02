@@ -14,4 +14,4 @@ and they are widely used in real applications.</p>
 soup = BeautifulSoup(html_doc,"lxml")
 for child in soup.descendants:
     print(child)
-input("按回车退出...")
+    print("===" * 25)   
